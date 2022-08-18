@@ -6,7 +6,11 @@
 
 [Language]
 
-- Delphi, Python, JavaScript
+- Delphi, Python, HTNML, CSS, JavaScript
+
+[Framework]
+
+- Django
 
 [DB]
 
